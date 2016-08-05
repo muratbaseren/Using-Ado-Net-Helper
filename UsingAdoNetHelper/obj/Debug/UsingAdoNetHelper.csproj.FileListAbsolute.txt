@@ -1,0 +1,10 @@
+c:\users\sc501\documents\visual studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\UsingAdoNetHelper.exe.config
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\UsingAdoNetHelper.exe
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\UsingAdoNetHelper.pdb
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\AdoNetHelper.dll
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.csprojResolveAssemblyReference.cache
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.Form1.resources
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.Properties.Resources.resources
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.csproj.GenerateResource.Cache
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.exe
+c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.pdb
