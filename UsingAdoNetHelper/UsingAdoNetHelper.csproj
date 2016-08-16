@@ -32,9 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AdoNetHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\GitHub\Ado-Net-Helper\bin\Release\AdoNetHelper.dll</HintPath>
+    <Reference Include="AdoNetHelper, Version=2.1.6072.17570, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\KmbAdoHelper.2.1.6\lib\net45\AdoNetHelper.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
