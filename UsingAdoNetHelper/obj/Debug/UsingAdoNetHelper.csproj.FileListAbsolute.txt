@@ -8,3 +8,10 @@ c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoN
 c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.csproj.GenerateResource.Cache
 c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.exe
 c:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\obj\Debug\UsingAdoNetHelper.pdb
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\EntityFramework.dll
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\FakeData.dll
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\AdoNetHelper.pdb
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\EntityFramework.xml
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SC501\Documents\Visual Studio 2015\Projects\UsingAdoNetHelper\UsingAdoNetHelper\bin\Debug\FakeData.pdb
