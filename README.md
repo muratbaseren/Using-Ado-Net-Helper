@@ -1,6 +1,8 @@
 # Using-Ado-Net-Helper
 AdoNetHelper DLL Kullanımını anlatan örnekler içerir.
 
+**[Sample Database Script](https://github.com/kadirmuratbaseren/Using-Ado-Net-Helper/blob/master/UsingAdoNetHelper/sample-database-script.sql)**
+
 ##### [KMB ADO.NET Helper Project](https://github.com/kadirmuratbaseren/Ado-Net-Helper)
 ##### [Nuget KmbAdoHelper](https://www.nuget.org/packages/KmbAdoHelper/)
 **Install-Package KmbAdoHelper**
